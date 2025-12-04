@@ -1,3 +1,3 @@
 # project 2
 
-this repo is creatd on local machine
+this repo is created on local machine
